@@ -1,4 +1,5 @@
 Time;TVL_013 top outer Channel 1;TVL_013 Housing up Channel 2;TVL_013 mid_inner Channel 3;TVL_013 mid outer Channel 4;TVL_013 Housing mid Channel 5;TVL_13 Bottom_outer Channel6;TVL_13 Bottom Inner Channel7;TVL_013 Housing low Channel 8;TVL _X Ambient;TVY Ambient Y (new) Channel 8
+ Seconds;( °C );( °C );( °C );( °C );( °C );( °C );( °C );( °C );( °C );( °C )
 0;1,04;1,3;0,66;0,66;0,78;0,44;0,47;0,51;5,68;0,06
 1;1,04;1,31;0,67;0,67;0,78;0,44;0,48;0,51;5,73;0,06
 2;1,05;1,31;0,68;0,67;0,78;0,45;0,48;0,52;5,78;0,05
